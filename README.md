@@ -1,6 +1,6 @@
 ### About Me 👋
 
-I am a highly driven individual, dedicated to self-improvement. I discovered an affinity for software development whilst using Python during my master’s project and in my role as a 1D Thermal Engineer in the electric vehicle sector. After leaving my Thermal Engineering role I began teaching myself JavaScript before enrolling in and graduating from a highly intensive Full Stack Java bootcamp at </salt>. I am working as a Java Developer and am always looking for new, exciting projects and opportunities that challenge me and push boundaires.
+I am a highly driven individual, dedicated to self-improvement. I discovered an affinity for software development whilst using Python during my master’s project and in my role as a 1D Thermal Engineer in the electric vehicle sector. After leaving my Thermal Engineering role I began teaching myself JavaScript before enrolling in and graduating from a highly intensive Full Stack Java bootcamp at Salt. I am working as a Java Developer and am always looking for new, exciting projects and opportunities that challenge me and push boundaires.
 
 ### :fire: My Stats :
 
