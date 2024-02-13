@@ -8,11 +8,6 @@ I am a highly driven individual, dedicated to self-improvement. I discovered an 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxajburrows&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35px"><b> Skills</b>
-<br>
-
-<p align="center">
-
-<br>
 
 - **Back-End Development**:
   
