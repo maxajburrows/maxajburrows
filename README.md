@@ -1,8 +1,11 @@
 ### About Me 👋
+<br>
 
 I am a highly driven individual, dedicated to self-improvement. I discovered an affinity for software development whilst using Python during my master’s project and in my role as a 1D Thermal Engineer in the electric vehicle sector. After leaving my Thermal Engineering role I began teaching myself JavaScript before enrolling in and graduating from a highly intensive Full Stack Java bootcamp at Salt. I am working as a Java Developer and am always looking for new, exciting projects and opportunities that challenge me and push boundaires.
+<br>
 
 ### :fire: My Stats :
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxajburrows&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -31,17 +34,12 @@ I am a highly driven individual, dedicated to self-improvement. I discovered an 
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  <br>
 
 - **Databasing**:
   
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-    
-<br>
 
 - **Softwares & Tools**:
 
