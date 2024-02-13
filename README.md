@@ -7,6 +7,9 @@ I am a highly driven individual, dedicated to self-improvement. I discovered an 
 ### :fire: My Stats :
 <br>
 
+<p align="center">
+
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxajburrows&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxajburrows&theme=dark&background=000000)](https://git.io/streak-stats)
